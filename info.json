@@ -1,10 +1,10 @@
 {
   "name": "Senpais_Dora",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Senpais Dora",
   "author": "LuziferSenpai",
   "Licence": "Custom",
   "description": "Adds a powerful but costly Artilly Wagon to the Game. Based on the German Railway Gun Gustay/Dora",
-  "dependencies": ["base >= 0.16"],
-  "factorio_version": "0.16"
+  "dependencies": ["base >= 0.17"],
+  "factorio_version": "0.17"
 }

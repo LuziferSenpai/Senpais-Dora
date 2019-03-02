@@ -144,12 +144,12 @@ local dora_recipe = util.table.deepcopy( data.raw["recipe"]["artillery-wagon"] )
 dora_recipe.name = artillery_train_name
 dora_recipe.ingredients =
 {
-	{ "artillery-wagon", 1 },
+    { "artillery-wagon", 1 },
 	{ "engine-unit", 100 },
-   	{ "iron-gear-wheel", 50 },
-   	{ "steel-plate", 100 },
-   	{ "pipe", 100 },
-   	{ "advanced-circuit", 50 },
+    { "iron-gear-wheel", 50 },
+    { "steel-plate", 100 },
+    { "pipe", 100 },
+    { "advanced-circuit", 50 },
  	{ "processing-unit", 50 }
 }
 dora_recipe.result = artillery_train_name
