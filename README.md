@@ -1,8 +1,7 @@
 # Senpais-Dora
 
-Hey Guys,
+This modification adds a new and powerful artillery to the game.
+Its shoots a 80cm atomic bomb, to detroy a massiv area.
 
-this is one of the Parts of my old Trains Modification.
-Just a OP Artillery Wagon based on the German Railway Gun!
-
-![This is OP!](https://i.imgur.com/eeKFRQS.png)
+I have a [Discord](https://discord.gg/rVpjuh4) for discussion, etc.
+If you want you can support me on [Patreon](https://www.patreon.com/LuziferSenpai).
