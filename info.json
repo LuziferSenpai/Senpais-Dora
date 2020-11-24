@@ -1,11 +1,11 @@
 {
     "name": "Senpais_Dora",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Senpais Dora",
     "author": "LuziferSenpai",
     "contact": "mods@luzifersenpai.de",
     "homepage": "luzifersenpai.de",
     "description": "Adds a new and powerful artillery to the game. Its based on the german railway gun Gustav/Dora.",
     "dependencies": ["base"],
-    "factorio_version": "1.0"
+    "factorio_version": "1.1"
 }

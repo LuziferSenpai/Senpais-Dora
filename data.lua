@@ -1,7 +1,7 @@
 local artillery_train_name = "Senpais-Dora"
 local MODNAME = "__Senpais_Dora__"
 local table_deepcopy = util.table.deepcopy
-local sounds = require("__base__/prototypes/entity/demo-sounds")
+local sounds = require("__base__/prototypes/entity/sounds")
 
 local dora_entity = table_deepcopy(data.raw["artillery-wagon"]["artillery-wagon"])
 dora_entity.name = artillery_train_name
